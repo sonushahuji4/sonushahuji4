@@ -1,321 +1,448 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Sonu%20Shahuji&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Founding%20Engineer%20%40%20Aerem%20Solutions&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
-</p>
+<!--
+  Sonu Shahuji · GitHub Profile README
+  Crafted with care. Want to copy bits? Go ahead — but please leave the credit alone.
+-->
 
-<h3 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="28" /> &nbsp;Welcome to my corner of GitHub
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+scalable+web+apps+for+6%2B+years;Founding+Engineer+at+a+Series+A+Solar+Fintech+Startup;Real-time+IoT+pipelines+%E2%80%A2+2M%2B+daily+events;Performance+nerd+%E2%80%94+12+hours+%E2%86%92+28+milliseconds;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/sonushahuji4">
-    <img src="https://komarev.com/ghpvc/?username=sonushahuji4&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/sonushahuji4?tab=followers">
-    <img src="https://img.shields.io/github/followers/sonushahuji4?label=Followers&style=for-the-badge&color=8B5CF6" alt="followers" />
-  </a>
-  <a href="https://github.com/sonushahuji4">
-    <img src="https://img.shields.io/github/stars/sonushahuji4?label=Stars&style=for-the-badge&color=FACC15" alt="stars" />
-  </a>
-</p>
+<a href="https://github.com/sonushahuji4">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sonu%20Shahuji&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Founding%20Engineer%20%40%20Aerem%20Solutions&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Sonu Shahuji — Full Stack Engineer banner" />
+</a>
 
-<p align="center">
-  <a href="https://sonushahuji4.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sonushahuji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sonushahuji4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/sonushahuji4"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="mailto:sonushahuji4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/i.m.sonuuu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<!-- ═══════════════════════════ HOOK ═══════════════════════════ -->
 
----
+### I made a 12-hour data pipeline run in **28 milliseconds**. Then scaled it 6×. ⚡
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" width="28" /></picture> &nbsp;About Me
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Founding+engineer+at+a+Series+A+solar+fintech+%E2%9A%A1;Real-time+IoT+pipelines+%E2%80%A2+2M%2B+daily+events;Building+from+zero+to+one+%E2%80%94+and+then+to+scale;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;Currently+based+in+Mumbai+%F0%9F%87%AE%F0%9F%87%B3" alt="Headline typing animation" />
+</a>
 
-I'm a **Full Stack Engineer** based in Mumbai with **6+ years** of shipping production software — currently the **founding engineer** at a Series A solar fintech startup that raised **INR 160 Cr**.
+<br/>
+
+<!-- ═══════════════════════════ MICRO-BADGES ═══════════════════════════ -->
+
+<a href="https://github.com/sonushahuji4"><img src="https://komarev.com/ghpvc/?username=sonushahuji4&label=Profile%20views&color=58A6FF&style=flat-square" /></a>
+<a href="https://github.com/sonushahuji4?tab=followers"><img src="https://img.shields.io/github/followers/sonushahuji4?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" /></a>
+<a href="https://github.com/sonushahuji4"><img src="https://img.shields.io/github/stars/sonushahuji4?label=Stars&style=flat-square&color=FACC15&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════ SOCIAL ═══════════════════════════ -->
+
+<a href="https://sonushahuji4.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/sonushahuji/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://leetcode.com/u/sonushahuji4/"><img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" /></a>
+<a href="https://www.codechef.com/users/sonushahuji4"><img src="https://img.shields.io/badge/-CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=D85A30&labelColor=0d1117" /></a>
+<a href="mailto:sonushahuji4@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
+<a href="https://instagram.com/i.m.sonuuu"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117" /></a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                          SECTION : ABOUT                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;The story so far
+
+> *"Most engineers ship features. Founding engineers ship companies."*
+
+I'm a Full Stack Engineer based in **Mumbai, India** with **6+ years** building production software. I'm currently the **founding engineer** at [Aerem](https://www.aerem.co) — a Series A solar fintech that closed **INR 160 Cr** on the back of an MVP I architected from a blank repo.
+
+Before that, I spent **3 years at Cimpress (National Pen)** shipping features that drove **30–40% of platform revenue** across **20+ countries**.
+
+I love three things in software:
+1. **Going from zero to one** — picking the stack, drawing the first schema, taking the first deploy
+2. **Performance work** — the kind where you measure milliseconds and watch graphs flatline
+3. **Mentoring** — turning a quiet junior into the person reviewing your PR six months later
 
 ```yaml
-name: Sonu Shahuji
-role: Founding Engineer @ Aerem Solutions
-focus: scalable systems · real-time IoT · performance
-loves: zero-to-one builds · pipeline tuning · mentoring
-location: Mumbai, India 🇮🇳
-fuel: ☕ + 🎧 lo-fi + 🏃 marathons
+sonu:
+  role:      Founding Engineer @ Aerem Solutions
+  obsession: real-time systems · postgres internals · clean APIs
+  scaling:   500+ solar plants · 2M+ daily IoT events · 200+ B2B customers
+  team:      grew engineering 1 → 5 · mentored 2 juniors to ownership
+  fuel:      ☕ coffee · 🎧 lo-fi · 🏃 marathons
+  open_to:   founding-engineer roles · tech leadership · system-design chats
 ```
 
-- 🌱 Joined Aerem at **day zero** — picked the stack, designed the schema, built CI/CD, shipped the MVP that helped close the Series A.
-- ⚡ My favourite engineering win: re-architected the solar telemetry ETL pipeline — **12 hours → 28 ms** for a 15-minute cycle.
-- 🛠️ Today the platform monitors **500+ plants**, serves **200+ B2B customers**, and processes **2M+ daily IoT readings**.
-- 👨‍🏫 Grew the engineering team from **1 → 5** and mentored **2 junior devs** to independent ownership in 4 months.
-- 💬 Ask me about **Node.js, React, PostgreSQL tuning, AWS Lambda + SQS, real-time architectures**, or **how to scale a startup MVP**.
-- 📫 Reach me at **sonushahuji4@gmail.com**
+<br/>
 
----
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : BY THE NUMBERS                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /></picture> &nbsp;What I'm Working On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;By the numbers
 
-| | |
-|---|---|
-| 🏢 **Day Job** | Scaling Aerem's solar monitoring SaaS — vendor-agnostic IoT integrations, real-time dashboards, auth consolidation. |
-| 🧪 **Side Quests** | Personal portfolio, performance experiments, system design write-ups. |
-| 📚 **Learning** | Distributed systems patterns, advanced PostgreSQL internals, LLM-assisted developer tooling. |
-| 🤝 **Open To** | Tech leadership chats, founding-engineer conversations, mentoring early-career devs. |
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>6+</h2>
+      <sub>years shipping<br/>production code</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>₹160<sub>Cr</sub></h2>
+      <sub>Series A raised on<br/>my MVP architecture</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>500+</h2>
+      <sub>solar plants<br/>monitored live</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>2M+</h2>
+      <sub>daily IoT events<br/>processed</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>12h → 28ms</h2>
+      <sub>ETL pipeline<br/>perf rewrite</sub>
+    </td>
+    <td align="center">
+      <h2>200+</h2>
+      <sub>B2B customers<br/>on platform</sub>
+    </td>
+    <td align="center">
+      <h2>99.9%</h2>
+      <sub>API uptime<br/>at Cimpress</sub>
+    </td>
+    <td align="center">
+      <h2>1 → 5</h2>
+      <sub>engineering team<br/>I helped grow</sub>
+    </td>
+  </tr>
+</table>
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /></picture> &nbsp;Tech Stack
+</div>
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : RIGHT NOW                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4D90FE?style=for-the-badge&logo=socket.io&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;What I'm doing right now
 
-#### Database & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+  <tr>
+    <td width="25%" align="center"><h3>🛠️</h3><b>Building</b><br/><sub>Vendor-agnostic IoT integration layer + real-time dashboards at Aerem</sub></td>
+    <td width="25%" align="center"><h3>📚</h3><b>Learning</b><br/><sub>Distributed systems patterns · advanced Postgres internals · LLM tooling</sub></td>
+    <td width="25%" align="center"><h3>🤝</h3><b>Open to</b><br/><sub>Founding-engineer chats · tech leadership · mentoring early-career devs</sub></td>
+    <td width="25%" align="center"><h3>🎧</h3><b>Vibing to</b><br/><sub>Lo-fi while debugging · A. R. Rahman · long-format podcasts</sub></td>
+  </tr>
+</table>
 
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<br/>
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : TECH ARSENAL                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech arsenal
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /></picture> &nbsp;GitHub Stats
+<div align="center">
 
-<p align="center">
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,framer" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio" />
+
+**Database & Caching**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,bash" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jira,npm" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : GITHUB STATS                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> &nbsp;GitHub, in numbers
+
+<div align="center">
+
+<a href="https://github.com/sonushahuji4">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sonushahuji4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/sonushahuji4">
+  <img height="180" src="https://streak-stats.demolab.com?user=sonushahuji4&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+</a>
+
+<br/>
+
+<a href="https://github.com/sonushahuji4">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonushahuji4&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+</a>
+<a href="https://wakatime.com/@sonushahuji4">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonushahuji4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&layout=compact" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Trophies as a single row -->
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sonushahuji4&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  </a>
+</div>
+
+<br/>
+
+<!-- The "wow" widget — snake eating contributions -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Activity graph -->
+
+<div align="center">
   <a href="https://github.com/sonushahuji4">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sonushahuji4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonushahuji4&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=8B5CF6&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20rhythm" />
   </a>
-  <a href="https://github.com/sonushahuji4">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonushahuji4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=58A6FF" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/sonushahuji4">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonushahuji4&theme=tokyonight&hide_border=true&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/sonushahuji4">
-    <img src="https://github-profile-trophy.vercel.app/?username=sonushahuji4&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  </a>
-</p>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : COMPETITIVE EDGE                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/sonushahuji4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonushahuji4&theme=tokyo-night&bg_color=00000000&hide_border=true&line=58A6FF&point=8B5CF6&area=true&area_color=58A6FF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@sonushahuji4">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonushahuji4&theme=tokyonight&hide_border=true&layout=compact&title_color=58A6FF&langs_count=8" />
-  </a>
-</p>
-
-<sub align="center">
-  <i>⏱️ Coding-time card auto-populates once <a href="https://wakatime.com">WakaTime</a> is connected to your IDE — until then it shows the "no data" placeholder.</i>
-</sub>
-
----
-
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /></picture> &nbsp;Competitive Programming
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="28" /> &nbsp;Competitive edge
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td valign="middle" width="55%" align="center">
       <a href="https://leetcode.com/u/sonushahuji4/">
-        <img src="https://leetcard.jacoblin.cool/sonushahuji4?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/sonushahuji4?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode card" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <h3>🏅 Highlights</h3>
+    <td valign="middle" width="45%">
       <table>
-        <tr><td><b>LeetCode Rating</b></td><td><b>2,059</b> (Knight)</td></tr>
-        <tr><td><b>Global Rank</b></td><td>Top <b>1.9%</b></td></tr>
-        <tr><td><b>Problems Solved</b></td><td><b>624+</b></td></tr>
-        <tr><td><b>Contests</b></td><td><b>25</b></td></tr>
-        <tr><td><b>CodeChef Peak</b></td><td><b>1,591</b></td></tr>
-        <tr><td><b>CodeChef Solved</b></td><td><b>321</b> in 42 contests</td></tr>
+        <tr><td>🏅 <b>LeetCode rating</b></td><td><b>2,059</b> &nbsp;<sub>Knight</sub></td></tr>
+        <tr><td>🌍 <b>Global rank</b></td><td>Top <b>1.9%</b></td></tr>
+        <tr><td>🧩 <b>Problems solved</b></td><td><b>624+</b></td></tr>
+        <tr><td>⚔️ <b>Contests fought</b></td><td><b>25</b></td></tr>
+        <tr><td>🍳 <b>CodeChef peak</b></td><td><b>1,591</b></td></tr>
+        <tr><td>📈 <b>CodeChef solved</b></td><td><b>321</b> in 42 contests</td></tr>
       </table>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" /></picture> &nbsp;Featured Projects
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : FEATURED WORK                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" /> &nbsp;Featured work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>☀️ Aerem Solar Monitoring Platform</h3>
-      <p><i>Founding Engineer · 2023 — present</i></p>
-      <p>Production-grade SaaS for real-time solar plant monitoring. Designed the architecture, schema, CI/CD, and MVP that helped secure a Series A of <b>INR 160 Cr</b>.</p>
+    <td valign="top">
+      <h3>☀️ &nbsp;Aerem Solar Monitoring SaaS &nbsp;<sub><kbd>flagship</kbd></sub></h3>
+      <p><b>Founding Engineer · 2023 → present</b></p>
+      <p>Built a production-grade real-time SaaS for solar plant operators from a blank repo. Designed the data model, the IoT ingestion path, the auth system, and the CI/CD that ships ~3 releases/week. The MVP I architected helped close <b>INR 160 Cr</b> in Series A funding.</p>
+      <table>
+        <tr>
+          <td align="center"><b>500+</b><br/><sub>solar plants</sub></td>
+          <td align="center"><b>2M+</b><br/><sub>daily events</sub></td>
+          <td align="center"><b>200+</b><br/><sub>B2B customers</sub></td>
+          <td align="center"><b>−60%</b><br/><sub>support tickets</sub></td>
+        </tr>
+      </table>
       <p>
-        <b>500+</b> plants · <b>2M+</b> daily IoT events · <b>200+</b> B2B customers · <b>−60%</b> support tickets
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/-WebSockets-4D90FE?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 National Pen E-Commerce</h3>
-      <p><i>Sr. Software Engineer · 2020 — 2023</i></p>
-      <p>Global e-commerce platform serving millions across <b>20+ countries</b>. Shipped product features driving <b>30–40%</b> of revenue, built 15+ REST APIs with Redis caching, SSG storefronts at <b>95+ Lighthouse</b>.</p>
-      <p>
-        <b>30–40%</b> revenue · <b>15+</b> APIs · <b>99.9%</b> uptime · <b>95+</b> Lighthouse
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎉 <a href="https://github.com/sonushahuji4/Eventos">Eventos</a></h3>
-      <p><i>Personal Project · 2021</i></p>
-      <p>A social media platform for event enthusiasts to discover, track, and engage with events — media sharing, stories, live streams, friend graph.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/sonushahuji4/Chat-Application">Real-time Chat</a></h3>
-      <p><i>Personal Project · 2021</i></p>
-      <p>Instant messaging app with rooms, real-time delivery indicators, and live WebSocket communication. A deep dive into Socket.io and real-time architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,aws,redis" />
       </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/sonushahuji4?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 National Pen E-Commerce</h3>
+      <p><b>Sr. Software Engineer · Cimpress · 2020 → 2023</b></p>
+      <p>Global e-commerce serving millions across <b>20+ countries</b>. Shipped product features driving <b>30–40% of platform revenue</b>, built 15+ REST APIs, and SSG storefronts hitting <b>95+ Lighthouse</b>.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,redis,aws" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎉 <a href="https://github.com/sonushahuji4/Eventos">Eventos</a></h3>
+      <p><b>Personal · 2021</b></p>
+      <p>Social platform for event-goers — discover, track, share. Stories, live streams, friend graph, post feed. A weekend project that taught me how to design a relational schema for social.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/sonushahuji4/Chat-Application">Real-time Chat</a></h3>
+      <p><b>Personal · 2021</b></p>
+      <p>Instant messaging app with rooms, delivery indicators, live WebSocket sync. My deep dive into Socket.io and the patterns behind real-time architecture.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,socketio" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://sonushahuji4.github.io/personal-portfolio/">Personal Portfolio</a></h3>
+      <p><b>Personal · 2026</b></p>
+      <p>This very site — a Next.js + Framer Motion portfolio with a 3D book-flip education timeline. Static-exported to GitHub Pages, scoring 98+ Lighthouse.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,threejs" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <a href="https://github.com/sonushahuji4?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</div>
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="28" /></picture> &nbsp;Achievements & Certifications
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : ACHIEVEMENTS                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Things I'm proud of
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>🏆 Awards</b>
+      <b>🏆 &nbsp;Awards</b>
       <ul>
         <li><b>Star of the Sprint</b> — Cimpress India · Feb 2023</li>
         <li><b>Certificate of Appreciation</b> — Cimpress India · Mar 2021</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <b>📜 Certifications</b>
+      <b>📜 &nbsp;Certifications</b>
       <ul>
-        <li>Low Level System Design — <i>Scaler</i></li>
-        <li>JavaScript Specialist — <i>Scaler</i></li>
-        <li>Data Structures & Algorithms — <i>Scaler</i></li>
-        <li>Namaste JavaScript / React / Node — <i>NamasteDev</i></li>
+        <li><b>Low Level System Design</b> · Scaler</li>
+        <li><b>JavaScript Specialist</b> · Scaler</li>
+        <li><b>Data Structures & Algorithms</b> · Scaler</li>
+        <li><b>Namaste JavaScript / React / Node</b> · NamasteDev</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Bulb.png" width="28" /></picture> &nbsp;Beyond Code
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : BEYOND THE KEYBOARD               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-When I'm not shipping software, you'll find me at:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="28" /> &nbsp;Beyond the keyboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚽_Football-1F8B4C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏃_Marathons-E63946?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏀_Basketball-F77F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎹_Music-7209B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✈️_Travel-118AB2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Hackathons-FFD60A?style=for-the-badge&logoColor=black" />
-</p>
+<div align="center">
 
-<h3 align="center">🎧 What I'm vibing to right now</h3>
+When I close the laptop — football pitches, marathon routes, basketball courts, lo-fi playlists, long-format podcasts, and whichever airport gate is open next.
 
-<p align="center">
-  <a href="https://open.spotify.com/user/sonushahuji">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sonushahuji&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="16%"><h3>⚽</h3><sub>Football</sub></td>
+    <td align="center" width="16%"><h3>🏃</h3><sub>Marathons</sub></td>
+    <td align="center" width="16%"><h3>🏀</h3><sub>Basketball</sub></td>
+    <td align="center" width="16%"><h3>🎹</h3><sub>Music</sub></td>
+    <td align="center" width="16%"><h3>✈️</h3><sub>Travel</sub></td>
+    <td align="center" width="16%"><h3>💡</h3><sub>Hackathons</sub></td>
+  </tr>
+</table>
 
-<sub align="center">
-  <i>🎵 Spotify card pulls from your live "now playing." Setup: connect your Spotify at <a href="https://spotify-github-profile.vercel.app/">spotify-github-profile</a> → it'll start showing the track in real-time.</i>
-</sub>
+<br/>
 
----
+**🎧 Currently on repeat**
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /></picture> &nbsp;Let's Connect
+<a href="https://open.spotify.com/user/sonushahuji">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sonushahuji&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58A6FF&bar_color_cover=false" alt="Spotify now playing" />
+</a>
 
-<p align="center">I'm always open to collaborating on <b>scalable products</b>, <b>founding-engineer</b> conversations, and chats on <b>real-time systems</b> & <b>performance</b>.</p>
+<sub><i>Card pulls from your live "now playing" once you connect Spotify at <a href="https://spotify-github-profile.vercel.app/">spotify-github-profile.vercel.app</a>.</i></sub>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sonushahuji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sonushahuji4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sonushahuji4.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sonushahuji4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <i>"Code is read more often than it's written. Build for the next engineer — even if it's future-you."</i>
-</p>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       SECTION : CONNECT                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&reversal=true" />
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's build something
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <p>
+        I love hearing from <b>founders</b> building from zero, <b>engineers</b> wrestling with real-time systems, and <b>students</b> figuring out the path. <br/> Inbox open. Coffee on me if you're in Mumbai.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="mailto:sonushahuji4@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sonushahuji/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://sonushahuji4.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Visit%20portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+> *"Code is read more often than it's written. Build for the next engineer — even if it's future-you."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&reversal=true" width="100%" />
+
+<sub>Thanks for scrolling. ✨</sub>
+
+</div>
