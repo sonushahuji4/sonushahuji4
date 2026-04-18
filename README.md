@@ -3,17 +3,27 @@
   Crafted with care. Want to copy bits? Go ahead — but please leave the credit alone.
 -->
 
-<div align="center">
-
-<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO STRIP ═══════════════════════════ -->
+<!-- Subtle full-width gradient strip that visually frames the portrait -->
 
 <a href="https://github.com/sonushahuji4">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sonu%20Shahuji&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Founding%20Engineer%20%40%20Aerem%20Solutions&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Sonu Shahuji — Full Stack Engineer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=8&section=header" width="100%" alt="" />
 </a>
 
-<!-- ═══════════════════════════ HOOK ═══════════════════════════ -->
+<div align="center">
 
-### I made a 12-hour data pipeline run in **28 milliseconds**. Then scaled it 6×. ⚡
+<!-- ═══════════════════════════ PORTRAIT ═══════════════════════════ -->
+<!-- The image already contains the name + role, so no duplicate text -->
+
+<a href="https://www.linkedin.com/in/sonushahuji/">
+  <img src="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/main/assets/hero.png" width="320" alt="Sonu Shahuji — Senior Software Engineer" />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════ HOOK LINE ═══════════════════════════ -->
+
+### ⚡ &nbsp;I made a 12-hour data pipeline run in **28 milliseconds**. Then scaled it 6×.
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Founding+engineer+at+a+Series+A+solar+fintech+%E2%9A%A1;Real-time+IoT+pipelines+%E2%80%A2+2M%2B+daily+events;Building+from+zero+to+one+%E2%80%94+and+then+to+scale;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;Currently+based+in+Mumbai+%F0%9F%87%AE%F0%9F%87%B3" alt="Headline typing animation" />
@@ -46,7 +56,7 @@
 <!--                          SECTION : ABOUT                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;The story so far
+## 👨‍💻 &nbsp;The story so far
 
 > *"Most engineers ship features. Founding engineers ship companies."*
 
@@ -75,7 +85,7 @@ sonu:
 <!--                       SECTION : BY THE NUMBERS                    -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;By the numbers
+## 📊 &nbsp;By the numbers
 
 <div align="center">
 
@@ -126,7 +136,7 @@ sonu:
 <!--                       SECTION : RIGHT NOW                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;What I'm doing right now
+## 🚀 &nbsp;What I'm doing right now
 
 <table>
   <tr>
@@ -143,7 +153,7 @@ sonu:
 <!--                       SECTION : TECH ARSENAL                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech arsenal
+## 🛠️ &nbsp;Tech arsenal
 
 <div align="center">
 
@@ -179,7 +189,7 @@ sonu:
 <!--                       SECTION : GITHUB STATS                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> &nbsp;GitHub, in numbers
+## 🎯 &nbsp;GitHub, in numbers
 
 <div align="center">
 
@@ -239,7 +249,7 @@ sonu:
 <!--                       SECTION : COMPETITIVE EDGE                  -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="28" /> &nbsp;Competitive edge
+## 🏅 &nbsp;Competitive edge
 
 <table align="center">
   <tr>
@@ -267,7 +277,7 @@ sonu:
 <!--                       SECTION : FEATURED WORK                     -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" /> &nbsp;Featured work
+## ✨ &nbsp;Featured work
 
 <table>
   <tr>
@@ -341,7 +351,7 @@ sonu:
 <!--                       SECTION : ACHIEVEMENTS                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Things I'm proud of
+## 🏆 &nbsp;Things I'm proud of
 
 <table>
   <tr>
@@ -370,7 +380,7 @@ sonu:
 <!--                       SECTION : BEYOND THE KEYBOARD               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="28" /> &nbsp;Beyond the keyboard
+## 😎 &nbsp;Beyond the keyboard
 
 <div align="center">
 
@@ -405,7 +415,7 @@ When I close the laptop — football pitches, marathon routes, basketball courts
 <!--                       SECTION : CONNECT                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's build something
+## 🤝 &nbsp;Let's build something
 
 <div align="center">
 
