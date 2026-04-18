@@ -3,23 +3,16 @@
   Crafted with care. Want to copy bits? Go ahead — but please leave the credit alone.
 -->
 
-<!-- ═══════════════════════════ HERO STRIP ═══════════════════════════ -->
-<!-- Subtle full-width gradient strip that visually frames the portrait -->
+<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
+<!-- Full-width banner — name + portrait in a 2:1 cinematic crop -->
 
-<a href="https://github.com/sonushahuji4">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=8&section=header" width="100%" alt="" />
+<a href="https://www.linkedin.com/in/sonushahuji/">
+  <img src="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/main/assets/hero.png" width="100%" alt="Sonu Shahuji — Senior Software Engineer" />
 </a>
 
 <div align="center">
 
-<!-- ═══════════════════════════ PORTRAIT ═══════════════════════════ -->
-<!-- The image already contains the name + role, so no duplicate text -->
-
-<a href="https://www.linkedin.com/in/sonushahuji/">
-  <img src="https://raw.githubusercontent.com/sonushahuji4/sonushahuji4/main/assets/hero.png" width="320" alt="Sonu Shahuji — Senior Software Engineer" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════ HOOK LINE ═══════════════════════════ -->
 
